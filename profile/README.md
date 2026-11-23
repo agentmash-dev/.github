@@ -7,7 +7,7 @@ agentmash is a coordination layer for teams whose developers each run an AI codi
 - website: [agentmash.dev](https://agentmash.dev)
 - set it up: [agentmash.dev/setup](https://agentmash.dev/setup)
 - docs: [agentmash.dev/docs](https://agentmash.dev/docs)
-- pricing: [agentmash.dev/pricing](https://agentmash.dev/pricing), free for two developers
+- pricing: [agentmash.dev/pricing](https://agentmash.dev/pricing), free tier: 40 agent-hours a month
 - npm: [agentmash](https://www.npmjs.com/package/agentmash)
 
 ```
